@@ -1,1 +1,44 @@
+body {
+  background-color: #384856;
+  color:  #e2e9f0;
+  font-family: Verdana light, Optima;
+  margin: 10% 15%
+}
+ 
+img {
+   border: 2px solid #e2e9f0;
+   border-radius: 6px;
+   margin-left: auto;
+   
+}
 
+.vin-header {
+  text-transform: uppercase;
+  text-align: center
+}
+  
+
+.con-header {
+  text-transform: uppercase;
+}
+
+a:link {
+  color: #e2e9f0;
+}
+ 
+.ed-header {
+  text-transform: uppercase;
+  border-top: 1px solid #e2e9f0
+}
+.ski-header {
+  text-transform: uppercase;
+  border-top: 1px solid #e2e9f0
+}
+.exp-header {
+  text-transform: uppercase;
+  border-top: 1px solid #e2e9f0
+}
+.ref-header {
+  text-transform: uppercase;
+  border-top: 1px solid #e2e9f0
+}
