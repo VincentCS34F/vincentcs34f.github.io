@@ -6,10 +6,10 @@ body {
 }
  
 img {
-   border: 2px solid #e2e9f0;
-   border-radius: 6px;
-   margin-left: auto;
-   
+    vertical-align: middle; 
+    border: 2px solide #e2e9f0;
+    border-radius: 6px;
+    float: right
 }
 
 .vin-header {
